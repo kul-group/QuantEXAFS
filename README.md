@@ -1,6 +1,8 @@
 # QuantEXAFS
 **QunatEXAFS**  is a Python based toolkit that assists in automated fitting of **Extended X-ray Absorption Spectroscopy Fine Structures (EXAFS)** data using X-ray Larch modules. Larch is an open-source library for processing and analyzing different kinds of x-ray data from synchrotrons. This automated fitting toolkit was developed for atomically dispersed catalysts on transition metal oxide (TMO) supports. The first application of this toolkit was submitted/accepted …link to the paper.
 
+![DFT to XAS workflow](workflow.png)
+
 _**Installation**_
 1. [Python](https://www.python.org/)
 2. [X-ray Larch](https://xraypy.github.io/xraylarch/)
